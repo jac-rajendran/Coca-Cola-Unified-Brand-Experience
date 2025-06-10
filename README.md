@@ -21,11 +21,12 @@ Beverage brands often have scattered digital experiences. This concept solves th
 
 ## 🎨 Features
 
-  🎯 Component-based navigation bar
-  🧃 Bold hero sections for each flavor
-  ✏️ Flavor-specific color schemes (orange, red, purple, green)
-  📱 Clean and responsive layout mockup
-  🧠 Built with design consistency and scalability in mind
+
+- 🎯 Component-based navigation bar
+- 🧃 Bold hero sections for each flavor
+- ✏️ Flavor-specific color schemes (orange, red, purple, green)
+- 📱 Clean and responsive layout mockup
+- 🧠 Built with design consistency and scalability in mind
 
 ---
 
