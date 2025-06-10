@@ -103,7 +103,7 @@ Design a single-page layout system where different Coca-Cola products (Coke, Fan
 
 **Jacob Smith Rajendran**  
 📧 jacobsmithrajendran@gmail.com 
-🔗 [LinkedIn]((https://www.linkedin.com/in/jacob-smith-rajendran-678316244/)) 
+🔗 [LinkedIn](https://www.linkedin.com/in/jacob-smith-rajendran-678316244/) 
 
 ---
 
