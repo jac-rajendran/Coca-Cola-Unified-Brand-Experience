@@ -1,64 +1,67 @@
 # 🥤 Coca-Cola Unified Brand Experience – UI/UX Prototype
 
-Welcome to my UI/UX concept project designed to unify Coca-Cola, Fanta, and Sprite under one sleek, reusable web interface.
+A UI/UX case study that reimagines the digital presence of Coca-Cola and its sub-brands — Fanta and Sprite — under a **unified, responsive, and component-based design system**.
 
-This portfolio project demonstrates **component-based design, brand identity integration**, and **visual storytelling** using Figma.
+This concept explores reusable layouts, flavor-specific themes, and **light/dark mode** implementations to show real-world design thinking and branding consistency.
 
 ---
 
 ## 📌 Project Overview
 
-**Problem:**  
-Beverage brands often have scattered digital experiences. This concept solves that by offering a **single web experience** where different drink flavors live under one cohesive layout — each with its own unique color theme and personality.
+**Challenge:**  
+How can a multi-brand beverage company like Coca-Cola deliver a unified digital experience while celebrating each sub-brand's unique vibe?
 
-**Goal:**  
-- Showcase multiple Coca-Cola sub-brands (Coke, Fanta, Sprite)  
-- Use **reusable UI components**  
-- Maintain visual consistency while giving each flavor its own identity  
-- Create a portfolio-ready piece to demonstrate UI/UX capability
+**Solution:**  
+Design a single-page layout system where different Coca-Cola products (Coke, Fanta, Sprite) each take the spotlight through color, imagery, and smooth transitions — while keeping UI components reusable and brand-consistent.
 
 ---
 
 ## 🎨 Features
 
-
-- 🎯 Component-based navigation bar
-- 🧃 Bold hero sections for each flavor
-- ✏️ Flavor-specific color schemes (orange, red, purple, green)
-- 📱 Clean and responsive layout mockup
-- 🧠 Built with design consistency and scalability in mind
+- 🍭 Component-based navigation bar with CTA buttons
+- 🧃 Flavor-specific branding (color, imagery, mood)
+- 🌈 Responsive layout with flexible components
+- 🌗 **Toggle-ready themes for Light and Dark Mode**
+- 🖼️ Clean hierarchy, visual rhythm, and user-friendly layout
+- 💼 Portfolio-ready with Figma prototyping
 
 ---
 
-## 🧩 Flavors Designed
+## 🧩 Flavors & Variants Included
 
-| Flavor        | Visual Theme       |
-|---------------|--------------------|
-| Coca-Cola     | Classic red         |
-| Coke Zero     | Black/Maroon        |
-| Fanta Orange  | Orange + Fun vibes  |
-| Fanta Strawberry | Red and sweet     |
-| Fanta Grape   | Purple & cool       |
-| Sprite        | Crisp green         |
-| Sprite Guava  | Tropical pink/green |
+| Brand     | Variants                      | Theme Colors       |
+|-----------|-------------------------------|--------------------|
+| Coca-Cola | Classic, Zero, Cherry         | Red, Black, Maroon |
+| Fanta     | Orange, Grape, Strawberry     | Orange, Purple, Red|
+| Sprite    | Original, Guava               | Green, Pink        |
 
 ---
 
 ## 🔧 Tools Used
 
-- [Figma](https://figma.com/) – Design & Prototyping  
-- Photoshop – Image edits (for product visuals)  
-- GitHub – Repo & project showcasing  
+- [Figma](https://figma.com/) – UI Design & Prototyping  
+- Photoshop – Product image mockups  
+- GitHub – Version control & portfolio publishing
 
 ---
 
 ## 📸 Screenshots
 
-> Add screenshots in a `/screenshots` folder and link them below 👇
+### 🌞 Light Mode
 
-![Coca-Cola Homepage](./screenshots/coca-cola-home.png)
-![Fanta Orange](./screenshots/fanta-orange.png)
-![Sprite Homepage](./screenshots/sprite-home.png)
+> Screens in `/screenshots/light/`
+
+![Coca-Cola Homepage (Light)](./screenshots/light/coca-cola.png)  
+![Fanta Orange (Light)](./screenshots/light/fanta-orange.png)  
+![Sprite (Light)](./screenshots/light/sprite.png)  
+
+### 🌙 Dark Mode
+
+> Screens in `/screenshots/dark/`
+
+![Coca-Cola Homepage (Dark)](./screenshots/dark/coca-cola.png)  
+![Fanta Orange (Dark)](./screenshots/dark/fanta-orange.png)  
+![Sprite (Dark)](./screenshots/dark/sprite.png)  
 
 ---
 
