@@ -67,3 +67,47 @@ Design a single-page layout system where different Coca-Cola products (Coke, Fan
 
 ## 📂 Folder Structure
 
+── README.md
+├── screenshots/
+│ ├── light/
+│ │ ├── coca-cola.png
+│ │ ├── fanta-orange.png
+│ │ └── sprite.png
+│ ├── dark/
+│ │ ├── coca-cola.png
+│ │ ├── fanta-orange.png
+│ │ └── sprite.png
+
+
+---
+
+## 🧠 What I Learned
+
+- Structuring UI for scalability and brand extension
+- Balancing visual identity with component reuse
+- Designing for accessibility with Light/Dark themes
+- Communicating mood through layout, color, and contrast
+
+---
+
+## 🚀 Next Steps
+
+- Add mobile-responsive versions  
+- Integrate hover/transition animations in Figma  
+- Add design tokens for colors and themes  
+- Export design to code (React/Tailwind or Webflow)
+
+---
+
+## 📬 Contact
+
+**Jacob Smith Rajendran**  
+📧 jacob@example.com *(update to your email)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update link)*  
+
+---
+
+> ⚠️ *This is a design concept for educational/portfolio use only. All brand assets and imagery belong to The Coca-Cola Company.*
+
+
+
